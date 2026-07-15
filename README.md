@@ -10,7 +10,7 @@
 
 ## Hi, I'm Pranav.
 
-I like work where I can understand a problem, build something useful, and think about how it creates value. This summer, I am working as an **Innovation Developer Intern at RBC**, building software and internal tools that improve processes at the bank.
+I'm always chasing the next challenge. Whether that's figuring out a new recipe or brainstorming how tech can solve problems, I love places where I can learn and grow. This summer, I am working as an **Innovation Developer Intern at RBC**, building software and internal tools that improve processes at the bank.
 
 Outside RBC, I am building **[The Pitch Deck](https://www.thepitchdeck.ca/)**, a platform I grew from an idea to **55K+ platform views** and **1K+ followers**.
 
@@ -37,13 +37,13 @@ Outside RBC, I am building **[The Pitch Deck](https://www.thepitchdeck.ca/)**, a
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 </p>
 
-I use technology as part of a broader problem-solving toolkit. I am equally comfortable building a product, researching a market, or turning an analysis into a clear recommendation.
+Currently leverage python, javascript, and react to build sites and scripts, as well as using Microsoft tools to effectively answer dificult questions. 
 
 ## Selected work
 
 ### [The Pitch Deck](https://www.thepitchdeck.ca/) · Founder & Product
 
-A discovery platform that helps Canadian students find worthwhile opportunities. I have led the product, content, and growth from the first version to **55K+ views** and a community of **1K+ followers**.
+A discovery platform that helps Canadian students find worthwhile opportunities. I have led the product, content, and growth from the first version to **85K+ views** and a community of **1K+ followers**.
 
 `Next.js` `TypeScript` `React` `Vercel` `Product strategy` `Growth`
 
@@ -61,7 +61,7 @@ A choice-based, pixel-art simulation built to make clinical decision-making more
 
 ## Let's connect
 
-I am always happy to meet builders, founders, and teams working on useful products. I am especially interested in conversations around software, product, strategy, and business technology.
+If you are creating, building, or simply exploring the worlds of tech and business, I would love to connect!
 
 **[LinkedIn](https://linkedin.com/in/pranavthukral)** · **[Email](mailto:pranavthukral.pt@gmail.com)** · **[The Pitch Deck](https://www.thepitchdeck.ca/)**
 
