@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 70" width="1000" height="70" role="img" aria-label="CONTACT">
+<text x="1" y="52" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="2.4" text-anchor="start">CONTACT</text>
+<text x="1000" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#818b98" letter-spacing="1.2" text-anchor="end">02</text>
+<line x1="0" y1="68.5" x2="1000" y2="68.5" stroke="#1f2328" stroke-width="1"/>
+</svg>

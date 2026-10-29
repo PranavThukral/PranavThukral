@@ -1,28 +1,12 @@
-<img src="./assets/profile-banner.svg" alt="Pranav Thukral — Computer Science & BBA, University of Waterloo" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/hero.svg"><img src="./assets/light/hero.svg" alt="Pranav Thukral: Computer Science &amp; BBA Double Degree · University of Waterloo × Wilfrid Laurier. I build at the intersection of software and business. Looking for software engineering and product roles at early-stage startups, especially in fintech and AI-powered tools." width="100%"></picture>
 
-<br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/section-work.svg"><img src="./assets/light/section-work.svg" alt="Selected work" width="100%"></picture>
+<a href="https://github.com/PranavThukral/execution-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/work-execution-lab.svg"><img src="./assets/light/work-execution-lab.svg" alt="Execution Lab: Stock order simulator comparing immediate, TWAP and VWAP execution." width="100%"></picture></a>
+<a href="https://github.com/PranavThukral/Threadline"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/work-threadline.svg"><img src="./assets/light/work-threadline.svg" alt="Threadline: Email workbench that turns incoming requests into reviewed replies." width="100%"></picture></a>
+<a href="https://github.com/PranavThukral/wato_asd_training"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/work-watonomous.svg"><img src="./assets/light/work-watonomous.svg" alt="WATonomous Navigation: ROS 2 robot navigation: mapping, A* path planning and Pure Pursuit control." width="100%"></picture></a>
+<a href="https://www.thepitchdeck.ca/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/work-pitch-deck.svg"><img src="./assets/light/work-pitch-deck.svg" alt="The Pitch Deck: Platform helping Canadian students discover opportunities. Founder." width="100%"></picture></a>
+<a href="https://vital-signs-eight.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/work-vital-signs.svg"><img src="./assets/light/work-vital-signs.svg" alt="Vital Signs: Pixel-art simulation that makes clinical decision-making approachable." width="100%"></picture></a>
 
-Computer Science & BBA double-degree student at the University of Waterloo and Wilfrid Laurier University.
-Previously a Software Engineering Intern at RBC, building internal tools on the Innovation team.
-
-<br />
-
-**Languages** &nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++ &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML/CSS
-
----
-
-### Work
-
-**[Execution Lab](https://github.com/PranavThukral/execution-lab)** &nbsp;—&nbsp; Stock order simulator comparing immediate, TWAP and VWAP execution.
-
-**[Threadline](https://github.com/PranavThukral/Threadline)** &nbsp;—&nbsp; Email workbench that turns incoming requests into reviewed replies.
-
-**[WATonomous Navigation](https://github.com/PranavThukral/wato_asd_training)** &nbsp;—&nbsp; ROS 2 robot navigation in C++: mapping, A* planning, Pure Pursuit control.
-
-**[The Pitch Deck](https://www.thepitchdeck.ca/)** &nbsp;—&nbsp; Platform helping Canadian students discover opportunities.
-
-**[Vital Signs](https://vital-signs-eight.vercel.app/)** &nbsp;—&nbsp; Pixel-art simulation of clinical decision-making.
-
----
-
-[LinkedIn](https://linkedin.com/in/pranavthukral) &nbsp;·&nbsp; [Email](mailto:pranavthukral.pt@gmail.com)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/section-contact.svg"><img src="./assets/light/section-contact.svg" alt="Contact" width="100%"></picture>
+<a href="https://linkedin.com/in/pranavthukral"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/contact-linkedin.svg"><img src="./assets/light/contact-linkedin.svg" alt="LinkedIn: linkedin.com/in/pranavthukral" width="100%"></picture></a>
+<a href="mailto:pranavthukral.pt@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/contact-email.svg"><img src="./assets/light/contact-email.svg" alt="Email: pranavthukral.pt@gmail.com" width="100%"></picture></a>
