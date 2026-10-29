@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 96" width="1000" height="96" role="img" aria-label="Vital Signs. Pixel-art simulation that makes clinical decision-making approachable.">
-<text x="1" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#818b98" letter-spacing="0" text-anchor="start">05</text>
+<text x="1" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#818b98" letter-spacing="0" text-anchor="start">04</text>
 <text x="48" y="41" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#1f2328" letter-spacing="-0.3" text-anchor="start">Vital Signs</text>
 <text x="970" y="40" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#818b98" letter-spacing="1.6" text-anchor="end">NEXT.JS · REACT</text>
 <path d="M987 40 L998 29 M990 29 H998 V37" fill="none" stroke="#1f2328" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>

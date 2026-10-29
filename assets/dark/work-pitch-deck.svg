@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 96" width="1000" height="96" role="img" aria-label="The Pitch Deck. Platform helping Canadian students discover opportunities. Founder.">
-<text x="1" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#656c76" letter-spacing="0" text-anchor="start">04</text>
-<text x="48" y="41" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#f0f6fc" letter-spacing="-0.3" text-anchor="start">The Pitch Deck</text>
-<text x="970" y="40" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#656c76" letter-spacing="1.6" text-anchor="end">NEXT.JS · TYPESCRIPT</text>
-<path d="M987 40 L998 29 M990 29 H998 V37" fill="none" stroke="#f0f6fc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="48" y="70" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#9198a1" letter-spacing="0" text-anchor="start">Platform helping Canadian students discover opportunities. Founder.</text>
-<line x1="0" y1="95.5" x2="1000" y2="95.5" stroke="#30363d" stroke-width="1"/>
-</svg>
